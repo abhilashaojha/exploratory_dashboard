@@ -14,7 +14,7 @@ form charts and tables.
 - Avishree Roy 
 - Diksha Tripathi
 
-# Overview of the dataset:
+# Overview of the dataset
 We used the NCRB district-wise crime against
 women data set. The data set consists of the
 following attributes:
@@ -46,7 +46,7 @@ elsewhere.
 approximately 467 KB. It contains data from the
 year 2001 to 2013.
 
-# Data Preprocessing:
+# Data Preprocessing
 ## Software Used:
 For our preprocessing, we employ Microsoft Excel
 and Python. 
@@ -60,7 +60,7 @@ The implementation of the rest of the project that is
 analysis in trends etc. has been done using Pivot
 Tables and Charts provided by Excel.
 
-# Data Cleaning:
+# Data Cleaning
 As we were working with a dataset with a large
 number of values our attention first and foremost
 fell to the fact of whether our dataset had any
@@ -80,7 +80,7 @@ Like, the **ASSAULT ON WOMEN
 WITH INTENT TO OUTRAGE HER MODESTY** changed to
 **MOLESTATION**
 
-# Data Transformation:
+# Data Transformation
 The main transformations performed are as follows:
 - Population of districts were added
 according to the census taken in 2001 and 2011. Till 2010 the population was taken according to 2001 census after which the values were provided by the 2011 census.
@@ -95,10 +95,15 @@ include these values.
 - Further analysis was performed via these
 new values and not the original values.
 
-# Data Reduction: 
+# Data Reduction
 The original dataset consisted of 26 states and 7 union
 territories. The total number of districts were over 358.  We worked on only 15 states and 3 union territories. The other states and union territories were removed from the dataset.
 
 > This is was done so that it will easier to manage the
 huge amount of data. This reduces the number of
 rows from about 9800 to about 4965.
+
+
+# Screenshot
+
+![Dashboard](https://raw.githubusercontent.com/abhilashaojha/exploratory_dashboard/main/imgs/Dashboard.png)
