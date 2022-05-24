@@ -99,7 +99,7 @@ new values and not the original values.
 The original dataset consisted of 26 states and 7 union
 territories. The total number of districts were over 358.  We worked on only 15 states and 3 union territories. The other states and union territories were removed from the dataset.
 
-> This is was done so that it will easier to manage the
+> This was done so that it will be easier to manage the
 huge amount of data. This reduces the number of
 rows from about 9800 to about 4965.
 
