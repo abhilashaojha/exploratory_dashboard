@@ -106,4 +106,4 @@ rows from about 9800 to about 4965.
 
 # Screenshot
 
-![Dashboard](https://raw.githubusercontent.com/abhilashaojha/exploratory_dashboard/main/imgs/Dashboard.png)
+ojha/exploratory_dashboard/main/imgs/Dashboard.png)
